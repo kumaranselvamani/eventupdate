@@ -1,0 +1,28 @@
+.event{
+    border: 2PX solid black;
+    padding-top: 20px;
+    h1,h3{
+        text-align: center;
+    }
+
+    
+}
+.datas{
+    justify-content: center ;
+    
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+    
+    border: 2px solid black;
+    img{
+        padding: 50px;
+    }
+    .datas{
+        padding: 100px;
+        padding-left: 0% !important;
+    }
+}
